@@ -13,3 +13,6 @@ to have only one commit per logical change.
 4)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 --Branches would be helpful if we are creating or performing some very risky changes in the source code.so that we can keep the other branch sorcecode 
 working.or if we are not planning any official release and just wanted to work on the previous release and want to keep a working version to show our friends.
+
+5)How do the diagrams help you visualize the branch structure?
+--Diagrams help me visualize the branch structure as they are in the git repository.

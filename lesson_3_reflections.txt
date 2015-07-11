@@ -12,3 +12,7 @@ forks are used to copy a whole repository from others to our own github account.
 
 4)What is the benefit of having a copy of the last known state of the remote stored locally?
 --having a copy of last known sate of te remote locally would help us in comparing our local drectory and the remote even when e dont have an internet access.
+
+5)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+--i would collaborate without using github by contacting the othe person but the commit jobs done here does not match any other type of collaboration,
+so in this modern world if we are to create big projects then using git and github is the best option i guess.

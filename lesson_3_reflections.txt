@@ -9,3 +9,6 @@ and that change may or maynot be needed by tht current user.hence updating the l
 --forks are the copied repositories from others in github, clones are the copy of the github repositories into local systems. and the branches rae the different
 branch created while creating a commit history to maintain our original application y be working in master branch.
 forks are used to copy a whole repository from others to our own github account.clones are used to copy frm github to local syatems.
+
+4)What is the benefit of having a copy of the last known state of the remote stored locally?
+--having a copy of last known sate of te remote locally would help us in comparing our local drectory and the remote even when e dont have an internet access.

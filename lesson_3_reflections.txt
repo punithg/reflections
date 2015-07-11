@@ -16,3 +16,7 @@ forks are used to copy a whole repository from others to our own github account.
 5)How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 --i would collaborate without using github by contacting the othe person but the commit jobs done here does not match any other type of collaboration,
 so in this modern world if we are to create big projects then using git and github is the best option i guess.
+
+6)When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+--whenever we wanted to work with  a new featrure or some new code which we do not want to collaborate with other people and not show them until it is complete
+then we canc reate a new branch in which we can keep our work personal and create a pull request whenever we ant to merge that code eith the master branch.
